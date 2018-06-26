@@ -1,0 +1,10 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.001
+Ka 0.600000 0.300000 0.000000
+Kd 1.000000 0.500000 0.000000
+
+newmtl TableShapeMaterial
+Ka 0.400000 0.100000 0.000000
+Kd 0.600000 0.200000 0.000000

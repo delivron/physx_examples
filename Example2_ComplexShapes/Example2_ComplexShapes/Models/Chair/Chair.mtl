@@ -1,0 +1,37 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl willisau_riale_mtl_1
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dcmap_willisau_riale_diff(1).jpg
+map_Bump dcmap_willisau_riale_bump.jpg
+map_Ka dcmap_willisau_riale_diff(1).jpg
+
+newmtl willisau_riale_mtl_2
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl willisau_riale_mtl_3
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dcmap_willisau_riale_diff.jpg
+map_Ka dcmap_willisau_riale_diff.jpg

@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl ChairShapeMaterial.001
+Ka 0.200000 0.000000 0.000000
+Kd 0.650000 0.000000 0.000000
+
+newmtl Material.002
+Ka 0.600000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+
+newmtl Material.003
+Ka 0.100000 0.000000 0.000000
+Kd 0.300000 0.000000 0.000000
